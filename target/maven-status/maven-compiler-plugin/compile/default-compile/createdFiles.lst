@@ -1,0 +1,8 @@
+com\mycompany\mediasoft\GlobalExceptionHandler.class
+com\mycompany\mediasoft\ProductRepository.class
+com\mycompany\mediasoft\ProductService.class
+com\mycompany\mediasoft\ErrorResponse.class
+com\mycompany\mediasoft\Product.class
+com\mycompany\mediasoft\App.class
+com\mycompany\mediasoft\ProductController.class
+com\mycompany\mediasoft\SwaggerConfig.class
